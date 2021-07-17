@@ -5,6 +5,9 @@ The goal of this project is to write simple game engine with Ray casting algorit
 
 R - resolution, F - floor color (RGB format), C - ceil color (RGB format), SO/WE/EA/NO - paths to  wall textures (depending on the direction), S - path to sprite image.
 
+#### Control
+WASD + arrows for navigating, Esc for exit
+
 #### Compile on Linux:
 0) sudo apt-get update && sudo apt-get install xorg libxext-dev zlib1g-dev
 1) make
